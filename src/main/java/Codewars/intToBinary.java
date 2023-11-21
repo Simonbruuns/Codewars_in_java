@@ -12,9 +12,6 @@ public class intToBinary {
             }
 
         }
-
-
-
         // Show me the code!
         return p;
     }
